@@ -1,11 +1,8 @@
 # CODEWARS_ACHIEVEMENTS: <a href="https://www.codewars.com/users/Ray-B-Ouamba"> VISITE HERE <a/>
 
-<a href="https://ray-b-ouamba.github.io/BACKGROUND-COLOR-CADENCE/">Visit the background color cadence page</a>
+
 
 A fun JavaScript project called Background ColorCadence adds a vibrant pop of color to your online browsing. Every second, it smoothly changes the color of your background with a repetitive cadence, producing an engrossing visual experience.
-
-**PROJECT LINK:**  
-<a href="https://ray-b-ouamba.github.io/BACKGROUND-COLOR-CADENCE/"> VISITE HERE <a/>
 
 ## HOW IT'S MADE:
 
