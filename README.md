@@ -1,8 +1,8 @@
 # CODEWARS_ACHIEVEMENTS: <a href="https://www.codewars.com/users/Ray-B-Ouamba"> VISITE HERE <a/>
 
+<img src="" alt="alt tag" style="max-width: 100%;">
 
-
-A fun JavaScript project called Background ColorCadence adds a vibrant pop of color to your online browsing. Every second, it smoothly changes the color of your background with a repetitive cadence, producing an engrossing visual experience.
+A repository filled with codewars challenges (kata). Currently Ranked #08 on the global leaderboard, Completed over 9+ challenges and Push 5 solutions every week.
 
 ## HOW IT'S MADE:
 
