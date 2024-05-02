@@ -13,11 +13,6 @@ My first daily task is to solve a codewar!
 My code is constantly refactored and optimized, sometimes for readability, sometimes for efficiency.
 
 ## LESSONS LEARNED:
-Understand the principles of JavaScript.
+The most important thing I've learnt from answering this never-ending list of inquiries is that there is still a long way to go. As long as you make the effort to get better, it's acceptable to be unable to respond to a question.
 
-## OTHER PROJECT:
-**BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:** 
-https://ray-b-ouamba.github.io/SELECT-BACKGROUND-COLOR-FOR-YOUR-YOUTUBE-CHANNEL/
 
-**AWESOME BACKGROUND WEBSITE IMAGE CHANGE:** 
-https://ray-b-ouamba.github.io/AWESOME-BACKGROUND-WEBSITE-IMAGE-CHANGE/
