@@ -10,7 +10,7 @@ A repository filled with codewars challenges (kata). Currently Ranked #08 on the
 My first daily task is to solve a codewar!
 
 ## OPTIMIZATIONS
-We have designed our webpage so that a single click will cause the background color to change.  We would like our background to automatically change color every 20 seconds.
+My code is constantly refactored and optimized, sometimes for readability, sometimes for efficiency.
 
 ## LESSONS LEARNED:
 Understand the principles of JavaScript.
